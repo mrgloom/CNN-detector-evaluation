@@ -16,5 +16,7 @@ Paper: https://arxiv.org/pdf/1506.01497v3.pdf
 https://github.com/smallcorgi/Faster-RCNN_TF [Tensorflow]
 
 
+OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks (Overfeat)
+Paper: https://arxiv.org/pdf/1312.6229.pdf
 https://github.com/TensorBox/TensorBox [Tensorflow]
 ~~~
