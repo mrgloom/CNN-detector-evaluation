@@ -10,6 +10,7 @@ https://github.com/balancap/SSD-Tensorflow [Tensorflow]
 You Only Look Once: Unified, Real-Time Object Detection (YOLO)
 Paper:https://pjreddie.com/media/files/papers/yolo.pdf
 https://github.com/gliese581gg/YOLO_tensorflow [Tensorflow]
+https://github.com/nilboy/tensorflow-yolo [Tensorflow]
 
 YOLO9000: Better, Faster, Stronger (YOLO9000)
 Paper: https://arxiv.org/pdf/1612.08242.pdf
