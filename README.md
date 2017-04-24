@@ -19,6 +19,7 @@ https://github.com/longcw/yolo2-pytorch [PyTorch]
 Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (Faster R-CNN)
 Paper: https://arxiv.org/pdf/1506.01497v3.pdf
 https://github.com/smallcorgi/Faster-RCNN_TF [Tensorflow]
+https://github.com/yhenon/keras-frcnn [Keras]
 
 OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks (Overfeat)
 Paper: https://arxiv.org/pdf/1312.6229.pdf
