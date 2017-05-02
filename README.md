@@ -6,6 +6,7 @@ CNN detector evaluation
 Single Shot MultiBox Detector (SSD)
 Paper: https://arxiv.org/pdf/1512.02325.pdf
 https://github.com/balancap/SSD-Tensorflow [Tensorflow]
+https://github.com/rykov8/ssd_keras [Keras]
 
 You Only Look Once: Unified, Real-Time Object Detection (YOLO)
 Paper:https://pjreddie.com/media/files/papers/yolo.pdf
