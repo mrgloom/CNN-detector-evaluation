@@ -29,7 +29,6 @@ R-FCN
 Paper: https://arxiv.org/pdf/1605.06409.pdf
 https://github.com/daijifeng001/R-FCN [Caffe]
 
-
 OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks (Overfeat)
 Paper: https://arxiv.org/pdf/1312.6229.pdf
 https://github.com/TensorBox/TensorBox [Tensorflow]
