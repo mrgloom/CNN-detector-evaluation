@@ -34,3 +34,8 @@ OverFeat: Integrated Recognition, Localization and Detection using Convolutional
 Paper: https://arxiv.org/pdf/1312.6229.pdf
 https://github.com/TensorBox/TensorBox [Tensorflow]
 ~~~
+
+To look at:
+~~~
+https://github.com/Smorodov/Deep-learning-object-detection-links.
+~~~
