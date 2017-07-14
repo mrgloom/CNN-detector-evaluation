@@ -37,6 +37,7 @@ https://github.com/TensorBox/TensorBox [Tensorflow]
 
 To look at:
 ~~~
+https://github.com/xiaohaoChen/rrc_detection
 https://github.com/tensorflow/models/tree/master/object_detection
 https://github.com/Smorodov/Deep-learning-object-detection-links.
 ~~~
