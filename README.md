@@ -33,6 +33,10 @@ https://github.com/daijifeng001/R-FCN [Caffe]
 OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks (Overfeat)
 Paper: https://arxiv.org/pdf/1312.6229.pdf
 https://github.com/TensorBox/TensorBox [Tensorflow]
+
+PVANet
+Paper: https://arxiv.org/pdf/1611.08588.pdf
+https://github.com/sanghoon/pva-faster-rcnn
 ~~~
 
 To look at:
