@@ -37,6 +37,10 @@ https://github.com/TensorBox/TensorBox [Tensorflow]
 PVANet
 Paper: https://arxiv.org/pdf/1611.08588.pdf
 https://github.com/sanghoon/pva-faster-rcnn
+
+DSOD
+Paper: https://arxiv.org/pdf/1708.01241.pdf
+https://github.com/szq0214/DSOD
 ~~~
 
 To look at:
