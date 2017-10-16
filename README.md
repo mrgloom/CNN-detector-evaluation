@@ -47,6 +47,7 @@ https://github.com/szq0214/DSOD [Caffe]
 To look at:
 ~~~
 https://github.com/kuangliu/pytorch-retinanet
+https://github.com/kuangliu/pytorch-fpn
 https://github.com/xiaohaoChen/rrc_detection
 https://github.com/tensorflow/models/tree/master/object_detection
 https://github.com/Smorodov/Deep-learning-object-detection-links.
