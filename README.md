@@ -24,7 +24,7 @@ Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (
 Paper: https://arxiv.org/pdf/1506.01497v3.pdf
 https://github.com/smallcorgi/Faster-RCNN_TF [Tensorflow]
 https://github.com/yhenon/keras-frcnn [Keras]
-https://github.com/precedenceguo/mx-rcnn [MX-Net]
+https://github.com/precedenceguo/mx-rcnn [MxNet]
 https://github.com/natanielruiz/dockerface [Caffe + docker]
 
 R-FCN
