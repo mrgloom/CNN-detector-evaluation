@@ -41,7 +41,7 @@ https://github.com/sanghoon/pva-faster-rcnn [Caffe]
 
 DSOD
 Paper: https://arxiv.org/pdf/1708.01241.pdf
-https://github.com/szq0214/DSOD
+https://github.com/szq0214/DSOD [Caffe]
 ~~~
 
 To look at:
