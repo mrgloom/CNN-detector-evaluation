@@ -53,4 +53,5 @@ https://github.com/xiaohaoChen/rrc_detection
 https://github.com/tensorflow/models/tree/master/object_detection
 https://github.com/Smorodov/Deep-learning-object-detection-links.
 https://github.com/bharatsingh430/soft-nms
+https://github.com/sciencefans/RSA-for-object-detection
 ~~~
