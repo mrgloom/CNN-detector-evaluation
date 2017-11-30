@@ -46,6 +46,7 @@ https://github.com/szq0214/DSOD [Caffe]
 
 To look at:
 ~~~
+https://github.com/chinakook/hr101_mxnet
 https://github.com/cydonia999/Tiny_Faces_in_Tensorflow
 https://github.com/kuangliu/pytorch-retinanet
 https://github.com/kuangliu/pytorch-fpn
