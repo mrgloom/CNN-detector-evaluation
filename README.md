@@ -60,4 +60,5 @@ https://github.com/bharatsingh430/soft-nms
 https://github.com/sciencefans/RSA-for-object-detection
 https://github.com/unsky/focal-loss
 https://github.com/fizyr/keras-retinanet
+https://github.com/deepinsight/insightface
 ~~~
