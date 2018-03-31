@@ -42,6 +42,10 @@ https://github.com/sanghoon/pva-faster-rcnn [Caffe]
 DSOD
 Paper: https://arxiv.org/pdf/1708.01241.pdf
 https://github.com/szq0214/DSOD [Caffe]
+
+MMOD
+https://github.com/jacobgil/dlib_facedetector_pytorch
+
 ~~~
 
 To look at:
