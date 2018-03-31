@@ -45,7 +45,6 @@ https://github.com/szq0214/DSOD [Caffe]
 
 MMOD
 https://github.com/jacobgil/dlib_facedetector_pytorch
-
 ~~~
 
 To look at:
