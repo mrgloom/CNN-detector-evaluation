@@ -65,3 +65,8 @@ https://github.com/unsky/focal-loss
 https://github.com/fizyr/keras-retinanet
 https://github.com/deepinsight/insightface
 ~~~
+
+Evaluation code:
+~~~
+https://github.com/Cartucho/mAP
+~~~
