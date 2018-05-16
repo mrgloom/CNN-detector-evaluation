@@ -59,6 +59,7 @@ https://github.com/kuangliu/pytorch-fpn
 https://github.com/xiaohaoChen/rrc_detection
 https://github.com/tensorflow/models/tree/master/object_detection
 https://github.com/Smorodov/Deep-learning-object-detection-links.
+https://github.com/amusi/awesome-object-detection
 https://github.com/bharatsingh430/soft-nms
 https://github.com/sciencefans/RSA-for-object-detection
 https://github.com/unsky/focal-loss
