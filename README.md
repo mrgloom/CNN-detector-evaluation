@@ -52,6 +52,7 @@ To look at:
 ~~~
 https://github.com/mahyarnajibi/SSH
 https://github.com/zeusees/FaceBoxes
+https://github.com/peiyunh/tiny
 https://github.com/chinakook/hr101_mxnet
 https://github.com/cydonia999/Tiny_Faces_in_Tensorflow
 https://github.com/alexattia/ExtendedTinyFaces
