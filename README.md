@@ -68,6 +68,7 @@ https://github.com/unsky/focal-loss
 https://github.com/fizyr/keras-retinanet
 https://github.com/deepinsight/insightface
 https://github.com/facebookresearch/Detectron
+https://github.com/hoya012/deep_learning_object_detection
 ~~~
 
 Metrics:
