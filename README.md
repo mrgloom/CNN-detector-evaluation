@@ -46,6 +46,10 @@ https://github.com/szq0214/DSOD [Caffe]
 
 MMOD
 https://github.com/jacobgil/dlib_facedetector_pytorch
+
+RefineDet
+Paper: https://arxiv.org/pdf/1711.06897.pdf
+https://github.com/sfzhang15/RefineDet
 ~~~
 
 To look at:
