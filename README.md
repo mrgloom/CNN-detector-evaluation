@@ -50,6 +50,10 @@ https://github.com/jacobgil/dlib_facedetector_pytorch
 RefineDet
 Paper: https://arxiv.org/pdf/1711.06897.pdf
 https://github.com/sfzhang15/RefineDet
+
+PCN
+Paper: https://arxiv.org/pdf/1804.06039.pdf
+https://github.com/Jack-CV/PCN-FaceDetection
 ~~~
 
 To look at:
