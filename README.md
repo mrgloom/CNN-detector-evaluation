@@ -83,4 +83,5 @@ https://github.com/rafaelpadilla/Object-Detection-Metrics
 Evaluation code:
 ~~~
 https://github.com/Cartucho/mAP
+https://github.com/ahrnbom/ensemble-objdet/blob/master/ensemble.py
 ~~~
