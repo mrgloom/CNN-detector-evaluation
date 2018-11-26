@@ -36,6 +36,9 @@ OverFeat: Integrated Recognition, Localization and Detection using Convolutional
 Paper: https://arxiv.org/pdf/1312.6229.pdf
 https://github.com/TensorBox/TensorBox [Tensorflow]
 
+SqueezeDet
+https://github.com/BichenWuUCB/squeezeDet
+
 PVANet
 Paper: https://arxiv.org/pdf/1611.08588.pdf
 https://github.com/sanghoon/pva-faster-rcnn [Caffe]
