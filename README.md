@@ -57,12 +57,16 @@ https://github.com/sfzhang15/RefineDet
 PCN
 Paper: https://arxiv.org/pdf/1804.06039.pdf
 https://github.com/Jack-CV/PCN-FaceDetection
+
+FaceBoxes
+https://github.com/sfzhang15/FaceBoxes [Caffe]
+https://github.com/zeusees/FaceBoxes [Caffe]
+
 ~~~
 
 To look at:
 ~~~
 https://github.com/mahyarnajibi/SSH
-https://github.com/zeusees/FaceBoxes
 https://github.com/peiyunh/tiny
 https://github.com/chinakook/hr101_mxnet
 https://github.com/cydonia999/Tiny_Faces_in_Tensorflow
