@@ -62,6 +62,10 @@ FaceBoxes
 https://github.com/sfzhang15/FaceBoxes [Caffe]
 https://github.com/zeusees/FaceBoxes [Caffe]
 
+S3FD: Single Shot Scale-invariant Face Detector [2017]
+Paper: https://arxiv.org/pdf/1708.05237.pdf
+https://github.com/kiselev1189/face-detector-s3fd [PyTorch]
+
 ~~~
 
 To look at:
