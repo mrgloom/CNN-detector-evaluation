@@ -37,7 +37,8 @@ Paper: https://arxiv.org/pdf/1312.6229.pdf
 https://github.com/TensorBox/TensorBox [Tensorflow]
 
 SqueezeDet
-https://github.com/BichenWuUCB/squeezeDet
+Paper: https://arxiv.org/pdf/1612.01051.pdf
+https://github.com/BichenWuUCB/squeezeDet [Tensorflow]
 
 PVANet
 Paper: https://arxiv.org/pdf/1611.08588.pdf
