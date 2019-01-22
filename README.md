@@ -62,6 +62,7 @@ FaceBoxes [2018]
 Paper: https://arxiv.org/pdf/1708.05234.pdf
 https://github.com/sfzhang15/FaceBoxes [Caffe]
 https://github.com/zeusees/FaceBoxes [Caffe]
+https://github.com/TropComplique/FaceBoxes-tensorflow [Tensorflow]
 
 S3FD: Single Shot Scale-invariant Face Detector [2017]
 Paper: https://arxiv.org/pdf/1708.05237.pdf
