@@ -69,6 +69,8 @@ S3FD: Single Shot Scale-invariant Face Detector [2017]
 Paper: https://arxiv.org/pdf/1708.05237.pdf
 https://github.com/kiselev1189/face-detector-s3fd [PyTorch]
 
+FCOS [2019]
+https://github.com/tianzhi0549/FCOS [PyTorch]
 ~~~
 
 To look at:
