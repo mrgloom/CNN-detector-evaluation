@@ -2,7 +2,6 @@
 CNN detector evaluation
 
 ~~~
-
 Single Shot MultiBox Detector (SSD)
 Paper: https://arxiv.org/pdf/1512.02325.pdf
 https://github.com/balancap/SSD-Tensorflow [Tensorflow]
@@ -76,7 +75,6 @@ https://github.com/tianzhi0549/FCOS [PyTorch]
 DSFD [2019]
 Paper: https://arxiv.org/pdf/1810.10220.pdf
 https://github.com/TencentYoutuResearch/FaceDetection-DSFD [PyTorch]
-
 ~~~
 
 To look at:
