@@ -70,7 +70,13 @@ Paper: https://arxiv.org/pdf/1708.05237.pdf
 https://github.com/kiselev1189/face-detector-s3fd [PyTorch]
 
 FCOS [2019]
+Paper: https://arxiv.org/pdf/1904.01355.pdf
 https://github.com/tianzhi0549/FCOS [PyTorch]
+
+DSFD [2019]
+Paper: https://arxiv.org/pdf/1810.10220.pdf
+https://github.com/TencentYoutuResearch/FaceDetection-DSFD [PyTorch]
+
 ~~~
 
 To look at:
