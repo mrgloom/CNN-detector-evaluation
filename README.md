@@ -79,6 +79,10 @@ https://github.com/TencentYoutuResearch/FaceDetection-DSFD [PyTorch]
 FPN [2017]
 Paper: https://arxiv.org/pdf/1612.03144.pdf
 https://github.com/DetectionTeamUCAS/FPN_Tensorflow [Tensorflow]
+
+LFFD [2019]
+Paper: https://arxiv.org/pdf/1904.10633.pdf
+https://github.com/YonghaoHe/A-Light-and-Fast-Face-Detector-for-Edge-Devices
 ~~~
 
 To look at:
