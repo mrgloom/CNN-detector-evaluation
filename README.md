@@ -87,6 +87,7 @@ https://github.com/YonghaoHe/A-Light-and-Fast-Face-Detector-for-Edge-Devices
 
 To look at:
 ~~~
+https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB
 https://github.com/mahyarnajibi/SSH
 https://github.com/peiyunh/tiny
 https://github.com/chinakook/hr101_mxnet
