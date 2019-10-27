@@ -119,3 +119,8 @@ Evaluation code:
 https://github.com/Cartucho/mAP
 https://github.com/ahrnbom/ensemble-objdet/blob/master/ensemble.py
 ~~~
+
+Benchmarks:
+~~~
+https://github.com/nodefluxio/face-detector-benchmark
+~~~
