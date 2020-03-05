@@ -116,6 +116,7 @@ https://github.com/facebookresearch/Detectron
 https://github.com/hoya012/deep_learning_object_detection
 https://github.com/TuSimple/simpledet
 https://github.com/open-mmlab/mmdetection
+https://github.com/facebookresearch/detectron2
 ~~~
 
 Metrics:
