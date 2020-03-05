@@ -113,6 +113,7 @@ https://github.com/deepinsight/insightface
 https://github.com/facebookresearch/Detectron
 https://github.com/hoya012/deep_learning_object_detection
 https://github.com/TuSimple/simpledet
+https://github.com/open-mmlab/mmdetection
 ~~~
 
 Metrics:
