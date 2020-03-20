@@ -91,6 +91,10 @@ RetinaFace [2019]
 Paper: https://arxiv.org/pdf/1905.00641.pdf
 https://github.com/biubug6/Pytorch_Retinaface [PyTorch]
 
+OS2D [2020]
+Paper: https://arxiv.org/pdf/2003.06800.pdf
+https://github.com/aosokin/os2d
+
 ~~~
 
 To look at:
