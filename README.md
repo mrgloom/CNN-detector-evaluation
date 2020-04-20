@@ -90,6 +90,7 @@ https://github.com/YonghaoHe/A-Light-and-Fast-Face-Detector-for-Edge-Devices
 RetinaFace [2019]
 Paper: https://arxiv.org/pdf/1905.00641.pdf
 https://github.com/biubug6/Pytorch_Retinaface [PyTorch]
+https://github.com/deepinsight/insightface/tree/master/RetinaFace [MxNet]
 
 OS2D [2020]
 Paper: https://arxiv.org/pdf/2003.06800.pdf
