@@ -96,6 +96,9 @@ OS2D [2020]
 Paper: https://arxiv.org/pdf/2003.06800.pdf
 https://github.com/aosokin/os2d
 
+DBFace
+https://github.com/dlunion/DBFace
+
 ~~~
 
 To look at:
