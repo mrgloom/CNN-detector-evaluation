@@ -125,6 +125,7 @@ https://github.com/hoya012/deep_learning_object_detection
 https://github.com/TuSimple/simpledet
 https://github.com/open-mmlab/mmdetection
 https://github.com/facebookresearch/detectron2
+https://github.com/VCBE123/AnchorFreeDetection
 ~~~
 
 Metrics:
